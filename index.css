@@ -10,7 +10,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: black;   /* url('./img/arkaplan.jpg') */
+    background: background: linear-gradient(#746916,#157b15ca);
 }
 
 .hidden{
